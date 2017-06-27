@@ -9,19 +9,19 @@
         android:id="@+id/text_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-       android:layout_centerInParent="true"
+        android:layout_centerInParent="true"
         android:text="@string/developed_by"
-        android:textColor="@color/textColor"/>
+        android:textColor="@color/textColor" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/niranjan"
+        android:layout_below="@+id/text_title"
         android:layout_centerInParent="true"
         android:layout_marginTop="@dimen/spacing_medium"
-        android:textStyle="bold"
-       android:layout_below="@+id/text_title"
+        android:text="@string/niranjan"
+        android:textColor="@color/textColor"
         android:textSize="@dimen/text_xlarge"
-        android:textColor="@color/textColor"/>
+        android:textStyle="bold" />
 
 </RelativeLayout>

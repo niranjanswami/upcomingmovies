@@ -11,9 +11,9 @@
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="@dimen/viewpager"
-        android:layout_marginTop="@dimen/spacing_small"
         android:layout_marginLeft="@dimen/spacing_small"
         android:layout_marginRight="@dimen/spacing_small"
+        android:layout_marginTop="@dimen/spacing_small"
         android:adjustViewBounds="true"
         android:background="@android:drawable/ic_menu_report_image" />
 
@@ -22,9 +22,9 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/pager"
-        android:layout_marginTop="@dimen/spacing_xxsmall"
         android:layout_marginLeft="@dimen/spacing_small"
         android:layout_marginRight="@dimen/spacing_small"
+        android:layout_marginTop="@dimen/spacing_xxsmall"
         android:padding="@dimen/spacing_small"
         app:centered="true"
         app:fillColor="@color/white"
@@ -39,9 +39,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/spacing_xlarge"
             android:layout_marginLeft="@dimen/spacing_small"
             android:layout_marginRight="@dimen/spacing_small"
-            android:layout_marginBottom="@dimen/spacing_xlarge"
             android:layout_marginTop="@dimen/spacing_xxsmall"
             android:orientation="vertical">
 

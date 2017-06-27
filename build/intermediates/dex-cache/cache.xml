@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Atmaram\Desktop\MoviesDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\workspace\upcomingmovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\Atmaram\Desktop\MoviesDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a1056013e57ecbfb46fd11bcada95ca48e58a24d\classes.dex" />
+        <dex dex="E:\workspace\upcomingmovies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_593ac3a182dbd36bca6160ec6399104c3a7d0ede\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Atmaram\Desktop\MoviesDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="E:\workspace\upcomingmovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="765d8e03e3ff39c4ceb5387358477fe54acc8917">
-        <dex dex="C:\Users\Atmaram\Desktop\MoviesDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6dd022d897afcbfe55c4225607cbd401c0fb1bdf\classes.dex" />
+        sha1="2246b3bbeb8e85da96ad6d2e7307c5c784615522">
+        <dex dex="E:\workspace\upcomingmovies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f0e3f0916f0e79d001522c98ed31c7e03d2ec0f\classes.dex" />
     </item>
 
 </items>

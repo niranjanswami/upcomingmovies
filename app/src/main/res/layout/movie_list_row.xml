@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/movies_layout"
     android:layout_width="match_parent"
     android:layout_height="100dp"
     android:layout_margin="@dimen/spacing_xsmall"
     android:background="@drawable/card_back"
     android:clickable="true"
-    android:id="@+id/movies_layout"
     android:orientation="vertical"
     android:padding="@dimen/spacing_small">
 
@@ -23,8 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/image_icon"
         android:layout_marginLeft="@dimen/spacing_xsmall"
-        android:textColor="@color/black"
-        android:text="@string/dd_mm_yyyy" />
+        android:text="@string/dd_mm_yyyy"
+        android:textColor="@color/black" />
 
     <TextView
         android:id="@+id/text_movie_name"
@@ -46,8 +46,8 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_margin="@dimen/spacing_xsmall"
-        android:textColor="@color/black"
-        android:text=" " />
+        android:text=" "
+        android:textColor="@color/black" />
 
     <ImageView
         android:id="@+id/image_next"
