@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#43A047</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <!--<color name="colorPrimaryDark">#21ab81</color>-->
+    <!--<color name="colorPrimary">#21ce99</color>-->
+    <color name="colorLightPrimary">#FF8DD2</color>
+    <!--<color name="colorAccent">#21ce99</color>-->
+    <!--<color name="colorAccent">#FFC107</color>-->
+
+    <color name="textPrimaryColor">#666666</color>
+    <color name="textSecondaryColor">#757575</color>
+    <color name="colorDivider">#dddddd</color>
+
+    <color name="app_bar_transparent">#90a4ad</color>
+    <color name="backgroud_cream_white">#faf7ee</color>
+
+    <color name="toolbarTransparent">#96fcd146</color>
+    <color name="navigationBarColor">#fcd146</color>
+
+    <color name="backgroundColor">@color/white</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorBlue">#005bab</color>
+    <color name="textColor">@color/textPrimaryColor</color>
+
+    <color name="colorYellow">#fcd146</color>
+    <color name="colorYellowLight">#ffd639</color>
+    <color name="colorHomeGrid">#AAE8EAF6</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_grey">#CCCCCCCC</color>
+
+    <color name="black">#000000</color>
+    <color name="white_greyish">#B6B6B6</color>
+    <color name="keyboard_grey">#ff929497</color>
+
+    <color name="blueColorDark">#0288D1</color>
+    <color name="skyBlue">#03A9F4</color>
+    <color name="vistaBlue">#ff0097bf</color>
+    <color name="greydark">#616161</color>
+
+
+    <color name="nav_bar_yellow">@color/colorYellow</color>
+    <color name="nav_bar_red">#f11c1c</color>
+    <color name="nav_bar_hgeader_grey">#afafaf</color>
+    <color name="nav_bar_blue">#025196</color>
+
+    <color name="toolbar_white_text">#f7fcff</color>
+    <color name="buttons_blue">#005bab</color>
+
+    <color name="textView_grey">#a6a6ad</color>
+    <color name="colorWeather">#c8072d3e</color>
+</resources>

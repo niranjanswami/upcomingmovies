@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoviesDemo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcoming_movies">UPCOMING MOVIES</string>
+    <string name="movie_details">MOVIE DETAILS</string>
+    <string name="information">INFORMATION</string>
+    <string name="quit_message">Are you sure, You want to Quit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="developed_by">Developed By -</string>
+    <string name="niranjan">NIRANJAN SWAMI</string>
+    <string name="u_a">U/A</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="loading">\"Loading...\"</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="adult">A</string>
+</resources>
