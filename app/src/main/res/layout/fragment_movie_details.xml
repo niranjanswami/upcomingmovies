@@ -60,7 +60,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:text="@string/movie_name"
-                    android:textColor="@color/black"
+                    android:textColor="@color/primary_text"
                     android:textSize="@dimen/text_xlarge" />
             </LinearLayout>
 
@@ -80,7 +80,7 @@
                     android:ellipsize="end"
                     android:maxLines="5"
                     android:text="@string/movie_description"
-                    android:textColor="@color/black"
+                    android:textColor="@color/primary_text"
                     android:textSize="@dimen/text_xlarge" />
             </LinearLayout>
 

@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/developed_by"
-        android:textColor="@color/textColor" />
+        android:textColor="@color/secondary_text" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -20,7 +20,7 @@
         android:layout_centerInParent="true"
         android:layout_marginTop="@dimen/spacing_medium"
         android:text="@string/niranjan"
-        android:textColor="@color/textColor"
+        android:textColor="@color/primary_text"
         android:textSize="@dimen/text_xlarge"
         android:textStyle="bold" />
 

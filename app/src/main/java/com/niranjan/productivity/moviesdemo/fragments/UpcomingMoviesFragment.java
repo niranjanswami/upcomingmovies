@@ -63,7 +63,7 @@ public class UpcomingMoviesFragment extends BaseFragment implements OnFragmentLi
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
 
-        ApiServices apiService = TransportManager.getUPIService();
+        ApiServices apiService = TransportManager.getAPIService();
 
         Call<MoviesResponse> call = apiService.getTopRatedMovies(TransportConstants.API_KEY);
         call.enqueue(new Callback<MoviesResponse>() {

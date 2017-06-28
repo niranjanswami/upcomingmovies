@@ -13,7 +13,7 @@ public class TransportManager {
 
     private static ApiServices apiServices;
 
-    public static ApiServices getUPIService() {
+    public static ApiServices getAPIService() {
 
         HttpLoggingInterceptor interceptor = new HttpLoggingInterceptor();
         interceptor.setLevel(HttpLoggingInterceptor.Level.BODY);

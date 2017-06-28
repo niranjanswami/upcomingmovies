@@ -24,7 +24,7 @@
         android:layout_below="@+id/image_icon"
         android:layout_marginLeft="@dimen/spacing_xsmall"
         android:text="@string/dd_mm_yyyy"
-        android:textColor="@color/black" />
+        android:textColor="@color/primary_text" />
 
     <TextView
         android:id="@+id/text_movie_name"
@@ -36,7 +36,7 @@
         android:layout_toLeftOf="@+id/image_next"
         android:layout_toRightOf="@+id/image_icon"
         android:text="@string/movie_name"
-        android:textColor="@color/black"
+        android:textColor="@color/primary_text"
         android:textSize="@dimen/text_medium" />
 
     <TextView
@@ -47,7 +47,7 @@
         android:layout_alignParentRight="true"
         android:layout_margin="@dimen/spacing_xsmall"
         android:text=" "
-        android:textColor="@color/black" />
+        android:textColor="@color/primary_text" />
 
     <ImageView
         android:id="@+id/image_next"

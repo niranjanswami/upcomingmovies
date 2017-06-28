@@ -71,7 +71,7 @@ public class MovieDetailsFragment extends BaseFragment {
         ratingBar = (RatingBar) rootView.findViewById(R.id.ratingBar);
         mPager = (ViewPager) rootView.findViewById(R.id.pager);
 
-        final ApiServices apiService = TransportManager.getUPIService();
+        final ApiServices apiService = TransportManager.getAPIService();
 
         Call<Movie> call = apiService.getMovieDetails(movieId, TransportConstants.API_KEY);
         call.enqueue(new Callback<Movie>() {
